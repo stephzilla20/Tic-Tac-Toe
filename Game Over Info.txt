@@ -1,0 +1,4 @@
+The winner is the Player.
+You won 12 time(s).
+The computer won 8 time(s).
+21 round(s) were played.
